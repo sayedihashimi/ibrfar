@@ -1,0 +1,111 @@
+{
+	"items":{
+		"amazon":{
+			"title":"Amazon",
+			"url":"http://astore.amazon.com/sedodream-20/detail/BT00DC6QU4",
+			"image":"./images/amazon.jpg"
+		},
+		"starbucks":{
+			"title":"Starbucks",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLW2AQ",
+			"image":"./images/starbucks.jpg",
+			"store-search":"https://www.google.com/maps/search/starbucks+jacksonville+fl/@30.2736505,-81.5922325"
+		},
+		"nordstrom":{
+			"title":"Nordstrom",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00GOLH84U",
+			"image":"./images/nordstrom.jpg",
+			"store-search":"https://www.google.com/maps/search/nordstrom+jacksonville+fl/@30.2736505,-81.5922325"
+		},
+		"jcpenny":{
+			"title":"JCPenny",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00UW1CEMY",
+			"image":"./images/jcpenny.jpg",
+			"store-search":"https://www.google.com/maps/search/jcpenny+jacksonville+fl/@30.1479713,-81.809274"
+		},
+		"belk":{
+			"title":"Belk",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLSM0A",
+			"image":"./images/belk.jpg",
+			"store-search":"https://www.google.com/maps/search/belk+jacksonville+fl/@30.1498472,-82.5077471"
+		},
+		"cheesecake-factory":{
+			"title":"The Cheesecake Factory",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00GRLUECA",
+			"image":"./images/cheesecake-factory",
+			"store-search":"https://www.google.com/maps/place/The+Cheesecake+Factory/@30.2577988,-81.5291521"
+		},
+		"texas-roadhouse":{
+			"title":"Texas Roadhouse",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00CXZPEPG",
+			"image":"./images/texas-roadhouse.jpg",
+			"store-search":"https://www.google.com/maps/place/Texas+Roadhouse/@30.1543159,-81.7510796"
+		},
+		"panera":{
+			"title":"Panera Bread Company",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00GOLGUVC",
+			"image":"./images/paneraa-bread.jpg",
+			"store-search":"https://www.google.com/maps/search/panera+jacksonville+fl/@30.3104003"
+		},
+		"whole-foods":{
+			"title":"Whole Foods Market",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00MV9P454",
+			"image":"./images/whole-foods.jpg",
+			"store-search":"https://www.google.com/maps/place/Whole+Foods+Market/@30.1851451,-81.6277493"
+		},
+		"sephora":{
+			"title":"Sephora",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00MV9GEQW",
+			"image":"./images/sephora.jpg",
+			"store-search":"https://www.google.com/maps/search/sephora+jacksonville+fl/@30.2536386"
+		},
+		"forever21":{
+			"title":"Forever 21",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTUBA",
+			"image":"./images/forever-21.jpg",
+			"store-search":"https://www.google.com/maps/search/forever+21+jacksonville+fl/@30.2536386,-81.7005762"
+		},
+		"express":{
+			"title":"Express",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTPEC",
+			"image":"./images/express.jpg",
+			"store-search":"https://www.google.com/maps/search/express+jacksonville+fl/@30.3335065,-81.7087692"
+		},
+		"bonefish":{
+			"title":"Bonefish Grill",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLSP0C",
+			"image":"./images/bonefish.jpg",
+			"store-search":"https://www.google.com/maps/search/express+jacksonville+fl/@30.3335065,-81.7087692"
+		},
+		"carabbas":{
+			"title":"Carabba's",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLT5EW",
+			"image":"./images/carabbas.jpg",
+			"store-search":"https://www.google.com/maps/search/Carabba's+jacksonville+fl/@30.2218631,-81.579926"
+		},
+		"einstein-bagel":{
+			"title":"Einstein Bagels",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTMRC",
+			"image":"./images/einstein.jpg",
+			"store-search":"https://www.google.com/maps/search/Einstein+Bagels+jacksonville+fl/@30.3303948,-81.6592598"
+		},
+		"yankee-candle":{
+			"title":"Yankee Candle",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B0108MGRAG",
+			"image":"./images/yankee-candle.jpg",
+			"store-search":"https://www.google.com/maps/place/Yankee+Candle/@30.1838244,-81.5559335"
+		},
+		"1-800-flowers":{
+			"title":"1-800-Flowers",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00MV9L5Q6",
+			"image":"./images/800-flowers.jpg",
+			"store-search":"https://www.google.com/maps/place/1-800-Flowers/@30.2137782,-81.5213934"
+		},
+		"aerie":{
+			"title":"Aerie",
+			"url":"http://astore.amazon.com/sedodream-20/detail/B00VF0NNEY",
+			"image":"./images/aerie.jpg",
+			"store-search":"https://www.google.com/maps/search/aerie+jacksonville+fl/@30.3372391,-81.8771661"
+		}
+	}
+}

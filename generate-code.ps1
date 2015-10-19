@@ -1,4 +1,15 @@
-﻿$pre = @'
+﻿[cmdletbinding()]
+param()
+
+function Get-ScriptDirectory
+{
+    $Invocation = (Get-Variable MyInvocation -Scope 1).Value
+    Split-Path $Invocation.MyCommand.Path
+}
+
+$scriptDir = ((Get-ScriptDirectory) + "\")
+
+$pre = @'
 <!DOCTYPE HTML>
 <!--
 	Photon by HTML5 UP
@@ -105,5 +116,5 @@ function Generate-Html{
 }
 
 
-$result = Generate-Html -filepath 'C:\Data\mycode\ibrfar\data.json'
-$result | clip
+$result = Generate-Html -filepath (Join-Path $scriptDir data.json)
+$result | Set-Content -Path (Join-Path $scriptDir index.html)

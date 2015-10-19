@@ -2287,6 +2287,12 @@
 				line-height: 1em;
 			}
 
+	.element {
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
 /* Image */
 
 	.image {
@@ -2294,6 +2300,10 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		
+		height: 125px;
+		width: 125px;
+		
 	}
 
 		.image img {

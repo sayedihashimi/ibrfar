@@ -79,8 +79,8 @@ function Generate-Html{
            
             $formatNostore = @'
 						        <div class="4u 12u$(medium)">
-							        <span class="image"><img src="{0}" alt="" /></span>
-							        <h3>{1}</h3>
+                                    <h3>{1}</h3>
+							        <span class="image"><img src="{0}" alt="" /></span>							        
 							        <ul class="actions">
 								        <li><a href="{2}">Buy online</a></li>
 							        </ul>
@@ -88,8 +88,8 @@ function Generate-Html{
 '@
             $formatWithstore = @'
 						        <div class="4u 12u$(medium)">
+                                    <h3>{1}</h3>
 							        <span class="image"><img src="{0}" alt="" /></span>
-							        <h3>{1}</h3>
 							        <ul class="actions">
 								        <li><a href="{2}">Buy online</a></li>
 								        <li><a href="{3}">Find a store</a></li>

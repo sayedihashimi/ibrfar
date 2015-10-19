@@ -18,28 +18,22 @@
 			"store-search":"https://www.google.com/maps/search/nordstrom+jacksonville+fl/@30.2736505,-81.5922325"
 		},
 		{
-			"title":"JCPenny",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00UW1CEMY",
-			"image":"./images/jcpenny.jpg",
-			"store-search":"https://www.google.com/maps/search/jcpenny+jacksonville+fl/@30.1479713,-81.809274"
+			"title":"Abercrobmie",
+			"url":"https://www.abercrombie.com/shop/us/gift-cards",
+			"image":"./images/abercrombie.png",
+			"store-search":"https://www.google.com/maps/place/Abercrombie+%26+Fitch/@30.255074,-81.5277773"
 		},
 		{
-			"title":"Belk",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLSM0A",
-			"image":"./images/belk.jpg",
-			"store-search":"https://www.google.com/maps/search/belk+jacksonville+fl/@30.1498472,-82.5077471"
+			"title":"Bed Bath and Beyond",
+			"url":"http://www.bedbathandbeyond.com/store/static/GiftCardHomePage",
+			"image":"./images/bed-bath.png",
+			"store-search":"https://www.google.com/maps/search/bed+bath+and+beyond+jacksonville+fl/@30.171811,-81.8170135"
 		},
 		{
 			"title":"The Cheesecake Factory",
 			"url":"http://astore.amazon.com/sedodream-20/detail/B00GRLUECA",
 			"image":"./images/cheesecake-factory.jpg",
 			"store-search":"https://www.google.com/maps/place/The+Cheesecake+Factory/@30.2577988,-81.5291521"
-		},
-		{
-			"title":"Texas Roadhouse",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00CXZPEPG",
-			"image":"./images/texas-roadhouse.jpg",
-			"store-search":"https://www.google.com/maps/place/Texas+Roadhouse/@30.1543159,-81.7510796"
 		},
 		{
 			"title":"Panera Bread Company",
@@ -70,18 +64,6 @@
 			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTPEC",
 			"image":"./images/express.jpg",
 			"store-search":"https://www.google.com/maps/search/express+jacksonville+fl/@30.3335065,-81.7087692"
-		},
-		{
-			"title":"Bonefish Grill",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLSP0C",
-			"image":"./images/bonefish.jpg",
-			"store-search":"https://www.google.com/maps/search/express+jacksonville+fl/@30.3335065,-81.7087692"
-		},
-		{
-			"title":"Carabba's",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLT5EW",
-			"image":"./images/carabbas.jpg",
-			"store-search":"https://www.google.com/maps/search/Carabba's+jacksonville+fl/@30.2218631,-81.579926"
 		},
 		{
 			"title":"Einstein Bagels",

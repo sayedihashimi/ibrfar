@@ -67,13 +67,16 @@ function Generate-Html{
         $data = ConvertFrom-Json ([System.IO.File]::ReadAllText($filepath))
         $index = 3
         $closedLast = $false
+        $countsinceclose = 0
         foreach($item in ($data.items)){
             $closedLast = $false
-            if( (($index++) % 3 )-eq 0){
+            $printclosing = $false
+            if( ($index % 3 ) -eq 0){
 				'				<div class="container">'
 				'					<div class="row 150%">'
+                $countsinceclose = 0
             }
-
+           
             $formatNostore = @'
 						        <div class="4u 12u$(medium)">
 							        <span class="image"><img src="{0}" alt="" /></span>
@@ -100,12 +103,13 @@ function Generate-Html{
 
             $formatTouse -f ($item.image),($item.title),($item.url),($item.'store-search') | Write-Output
 
-            if($index -eq 0){
+            $countsinceclose++
+            if( $countsinceclose -eq 3){
                 '					</div>'
                 '				</div>'
                 $closedLast = $true
             }
-
+            $index++
         }
 
         if($closedLast -eq $false){

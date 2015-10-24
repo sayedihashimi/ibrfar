@@ -54,12 +54,6 @@
 			"store-search":"https://www.google.com/maps/search/sephora+jacksonville+fl/@30.2536386"
 		},
 		{
-			"title":"Forever 21",
-			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTUBA",
-			"image":"./images/forever-21.jpg",
-			"store-search":"https://www.google.com/maps/search/forever+21+jacksonville+fl/@30.2536386,-81.7005762"
-		},
-		{
 			"title":"Express",
 			"url":"http://astore.amazon.com/sedodream-20/detail/B00BXLTPEC",
 			"image":"./images/express.jpg",
